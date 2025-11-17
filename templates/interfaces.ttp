@@ -1,0 +1,5 @@
+<group name="interfaces">
+interface {{ interface }}
+ ip address {{ address }} {{ mask }}
+</group>
+
